@@ -1,0 +1,7 @@
+CLASS zcl_zbtp_meta_04_dev1 DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.
+    METHODS execute.
