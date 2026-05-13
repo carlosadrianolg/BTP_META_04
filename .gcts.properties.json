@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "ZBTP_META_04",
   "repositoryLayout": {
+    "fingerprintSeckey": "/BYOG/FPRINT_RT/F673050125AA1FE193DC6A5120E3D058_0",
     "format": "json",
     "formatVersion": "6",
     "keepClient": "false",
